@@ -1,5 +1,21 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/HGmtyx_Cover_DarkGreyBG_Dblue_exWhite.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Welcome to Hexoraw
