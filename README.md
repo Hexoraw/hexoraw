@@ -4,7 +4,7 @@ icon: hand-wave
 
 # Welcome to Hexoraw
 
-Welcome to the Hexoraw! You visited the landing page for Hexoraw, unfortunately this page is not a documentation, but rather a ressource page for project's documentation of Hexoraw.
+Welcome to the Hexoraw! This is the landing page for Hexoraw, unfortunately this page is not a documentation, but rather a ressource page for project's documentation of Hexoraw.
 
 ### Available documentations
 
